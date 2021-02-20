@@ -19,6 +19,6 @@ else if (operation === "MULTIPLY") {
 result = num_1 / num_2;
   alert('The quotient of ' + num_1 + " and " + num_2 + " is " + result);
 } else {
-alert("Not a valid option bc!");
+alert("Not a valid option bcd!");
 }
 
